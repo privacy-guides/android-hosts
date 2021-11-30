@@ -1,7 +1,7 @@
 # android-hosts
 This is a small repository that has many different of hosts files with certain use-cases. It's meant to be used with the F-Droid version of Netguard https://github.com/M66B/NetGuard | https://www.netguard.me .
 
-DISCLAMER: If you want true privacy & security on an Android, you should be using: https://calyxos.org/
+DISCLAMER: If you want true privacy & security on an Android, you should be using: https://calyxos.org/                                         
 No configuration of Netguard will provide more protection for Android then CalyxOS can provide using its build in firewall.
 -> I don't recommend using MicroG or any Google Related Service on any form of device.
 
