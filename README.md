@@ -5,7 +5,7 @@ DISCLAMER: If you want true privacy & security on an Android, you should be usin
 
 No configuration of Netguard will provide more protection for Android then CalyxOS can provide using its build in firewall.
 (I don't recommend using MicroG or any Google Related Service on any form of device.)
-Want to know if your app of choice works on CalyxOS/GrapheneOS/Any Degoogled Rom?
+If you want to know if your app of choice works on CalyxOS/GrapheneOS/Any Degoogled Rom?
 Use: https://plexus.techlore.tech/ - Provided by Techlore. 
 Search your app of choice and it will show if your app is compatible with any degoogled rom.
 
