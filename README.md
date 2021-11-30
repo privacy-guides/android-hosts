@@ -23,5 +23,6 @@ How to Download the 'Right' Version of Netguard?
 2) Install it by opening the apk.
 3) After installing F-Droid make sure to update all it's repos.
 4) Search Netguard & Install the latest version (just press install).
-5) Go to Netguard -> Settings -> Backup -> You should see "import hosts file", "import hosts file (append)", "hosts file download URL", "Download hosts file".     
-   If this isn't the case, you downloaded the wrong version from the Google Play Store. Go back to Step 1.
+5) Go to Netguard -> Settings -> Backup -> You should see "import hosts file", "import hosts file (append)", "hosts file download URL", "Download hosts file".    
+ 
+If this isn't the case, you downloaded the wrong version from the Google Play Store. Go back to Step 1.
